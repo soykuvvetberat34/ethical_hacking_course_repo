@@ -13,3 +13,6 @@
 **If someone uses a vpn, they change their public ip**
 
 **you can learn your ip in kali linux sing the terminal**
+
+**You need to be root in your terminal. You need to write sudo su and enter your password. Then, prompt the terminal with ifconfig, and you can see the IP.**
+
