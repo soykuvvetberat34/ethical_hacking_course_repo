@@ -11,3 +11,4 @@
 85.100.25.149 -> Public IP
 
 **If someone uses a vpn, they change their public ip**
+**you can learn your ip in kali linux sing the terminal**
