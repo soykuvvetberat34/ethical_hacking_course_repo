@@ -5,6 +5,8 @@
 # We converted the resolv.conf file into a writable format to add a nameserver using the nano command in the terminal.
 
 
+![resim](https://github.com/user-attachments/assets/86ca28fd-2059-45cf-8dd3-4c0214fabb8f)
+# We added two DNS servers and made the other servers invisible.
 
 
 
