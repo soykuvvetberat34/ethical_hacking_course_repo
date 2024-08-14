@@ -1,1 +1,27 @@
 
+![resim](https://github.com/user-attachments/assets/53b5a532-8a57-4878-808a-25d48ee79863)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
