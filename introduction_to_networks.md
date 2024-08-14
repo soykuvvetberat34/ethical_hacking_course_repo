@@ -16,3 +16,5 @@
 
 **You need to be root in your terminal. You need to write sudo su and enter your password. Then, prompt the terminal with ifconfig, and you can see the IP.**
 
+![resim](https://github.com/user-attachments/assets/a8d46a30-a41f-49da-8fcb-3d8f7760454c)
+
