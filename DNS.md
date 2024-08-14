@@ -1,3 +1,5 @@
+# How to change dns server
+
 ![resim](https://github.com/user-attachments/assets/2c6c7ec0-dc3d-4b76-943d-6a66481983f1)
 # There is some dns servers
 
