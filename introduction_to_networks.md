@@ -1,1 +1,1 @@
-**How to work internet**
+**How does the internet work**
